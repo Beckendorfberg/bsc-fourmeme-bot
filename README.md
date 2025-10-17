@@ -28,7 +28,10 @@ Define your ideal entry and exit points. The bot automatically manages your trad
 Trade with confidence. FourSniper automatically performs critical security checks:
 
 ✅ Minimum Liquidity Check: Avoids low-liquidity traps.
+
 ✅ Burned/Locked Liquidity Scan: Verifies the safety of the token's liquidity pool.
+
 ✅ Ownership Renounced Check: Protects you from potential rug-pulls and malicious contracts.
+
 ✅ High-Speed, Priority Execution
 Our bot is optimized for speed, ensuring your transactions are processed with priority on the blockchain.
